@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+public/favicon.ico
+public/logo192.png
+public/logo512.png
+public/manifest.json
+public/robots.txt
